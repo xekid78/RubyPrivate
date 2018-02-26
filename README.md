@@ -1,0 +1,2 @@
+# RubyPrivate
+プライベート
