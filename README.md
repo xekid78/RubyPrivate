@@ -1,4 +1,4 @@
-# RubyPrivate
+# RubyPrivateMethod
 プライベートメソッド
 
 ## 処理
